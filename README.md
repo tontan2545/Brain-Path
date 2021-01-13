@@ -15,4 +15,4 @@ To see if it works, run one of the included examples:
 ` python3 -m pygame.examples.aliens `
 
 ## Running The Game
-` python3 "Brain-Path-Game" `
+` python "Brain-Path-Game" `
