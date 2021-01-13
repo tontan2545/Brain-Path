@@ -3,7 +3,6 @@ This game was made during IDD-CDT Creative Innovative Bootcamp 2018 by shit game
 For the game to run, you'll require 2 things:
 1. Python version 3.7 or above
 2. Pygame, a library of python
-## Python Installation
 
 ## Pygame Installation
 Pygame requires Python; if you don't already have it, you can download it from python.org. Use python 3.7.7 or greater, because it is much friendlier to newbies, and additionally runs faster.
